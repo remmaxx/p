@@ -897,7 +897,7 @@ h4 {
 .block__19738 .number {
     font-size: 2.2rem;
     font-weight: 300;
-    color: #008891;
+    color: #928a97;
 }
 
 .block__19738 .caption {
@@ -923,8 +923,8 @@ h4 {
     width: 70px;
     height: 70px;
     border-radius: 50%;
-    border: 1px solid #928a97;
-    background: #928a97;
+    border: 1px solid #9f9aa2;
+    background: #9f9aa2;
     margin-bottom: 1.5rem;
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
@@ -987,7 +987,7 @@ h4 {
 
 .block__62849 .block__16443:hover .custom-icon [class^="icon-"],
 .block__62849 .block__16443:hover .custom-icon [class^="flaticon-"] {
-    color: #007bff;
+    color: #928a97;
 }
 
 .block__62272 .section-title {
