@@ -17,6 +17,16 @@
         padding-left: 15px;
         padding-right: 15px;
     }
+    
+    
+    
+    .main-text{padding-top: 30%; color: white; left: 0; right: 0; margin: 0 auto}
+    .iconboxx{left: 0; right: 0; margin: 0 auto}
+    .titlebtn{padding-top: 5%}
+    .mt1{width: 97px; margin-left: 10px; line-height: 67px}
+    .mt2{margin: 0 auto;}
+    .mt3{width: 30px; margin: 0 auto; line-height: 67px}
+    
 }
 
 .site-navbar .site-logo {
@@ -1312,7 +1322,7 @@ h4 {
 }
 
 .site-footer a {
-    color: #007bff;
+    color: #fff;
 }
 
 .site-footer a:hover {
