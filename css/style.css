@@ -29,6 +29,19 @@
     
 }
 
+@media (max-width: 991.98px) {
+    
+    
+    
+    .main-text{padding-top: 50%;}
+}
+
+
+@media (max-width: 450px){.site-logo{text-align: center}}
+
+
+
+
 .site-navbar .site-logo {
     position: absolute;
 }
@@ -754,6 +767,14 @@ h4 {
         position: relative;
     }
 }
+
+
+
+
+@media (max-width: 767px) { .mphoto{display: none} }
+
+
+
 
 .img-overlap .img-1 {
     top: 10%; left: 20%
